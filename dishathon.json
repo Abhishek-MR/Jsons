@@ -1,0 +1,179 @@
+[
+  {
+    "channel": 1,
+    "name": "HBO",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Terminator 1",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+        "genres": [
+          "Science fiction",
+          "Action"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Terminator 2",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+        "genres": [
+          "Comedy",
+          "Action"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "Terminator 3",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+        "genres": [
+          "Horror",
+          "Romantic"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      }
+    ]
+  },
+  {
+    "channel": 2,
+    "name": "Star Gold",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Dhoom 1",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hi",
+        "genres": [
+          "Horror",
+          "Animated"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Dhoom 2",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hi",
+        "genres": [
+          "Science fiction",
+          "Comedy"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "Dhoom 3",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hi",
+        "genres": [
+          "Adventure",
+          "Action"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      }
+    ]
+  },
+  {
+    "channel": 3,
+    "name": "NDTV",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "NDTV 1",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "ne",
+        "genres": [
+          "Horror",
+          "Animated"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "NDTV 2",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "ne",
+        "genres": [
+          "Science fiction",
+          "Comedy"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "NDTV 3",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "ne",
+        "genres": [
+          "Adventure",
+          "Action"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      }
+    ]
+  },
+  {
+    "channel": 4,
+    "name": "Music",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "VH 1",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hi",
+        "genres": [
+          "Music"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "VH 2",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+        "genres": [
+          "Music"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "VH 3",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hi",
+        "genres": [
+          "Music"
+        ],
+        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      }
+    ]
+  }
+]

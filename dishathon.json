@@ -1,30 +1,248 @@
 [
   {
-    "channel": 1,
-    "name": "HBO",
+    "channel": 200,
+    "name": "Zee Cinema",
+	"lan" : "hn",
+	"gen" : "movie",
+	"img" : "https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",
     "shows": [
       {
         "start_time": "2018-06-16 10:15",
         "end_time": "2018-06-16 12:15",
-        "title": "Terminator 1",
-        "releaseYear": 1991,
+        "title": "Ra. One",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Ra.Oneposter.jpg/220px-Ra.Oneposter.jpg",
+        "releaseYear": 2011,
         "releaseDate": "1991-07-01",
-        "language": "en",
+        "language": "hn",
+		"tags":["shahrukh khan","kareena kapoor","Robotic"],
         "genres": [
           "Science fiction",
           "Action"
         ],
+        "description": "Superhero film starring Shahrukh Khan, Kareena Kapoor, Arjun Rampal and many others. The film is about an antagonistic game character, Ra.One (played by Tom Wu and Arjun Rampal) which escapes the confines of the game into reality killing everyone (including the game designer played by Shahrukh Khan). He aims to kill the game designer's son (played by Armaan Verma) for beating him inside the game during the game launch. In order to stop him, the game's protagonist G.One (also played by Shahrukh Khan) must be brought out who must save the kidnapped kid and his mother before facing off with Ra.One."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Hera pheri",
+		"img_ln":"https://m.media-amazon.com/images/M/MV5BNDExMTBlZTYtZWMzYi00NmEwLWEzZGYtOTA1MDhmNTc0ODZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["akshay kumar","sunil shetty"],
+        "genres": [
+          "Comedy",
+          "family"
+        ],
+        "description": "Three unemployed men find the answer to all their money problems when they recieve a call from a kidnapper. However, things do not go as planned."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "Kick",
+		"img_ln":"https://m.media-amazon.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["salman khan","Jacqueline Fernandez"," Nawazuddin Siddiqui"],
+        "genres": [
+          "Action",
+          "Drama"
+        ],
+        "description": "Devi Lal Singh, a typical youth with an anomalous standard of living, tries to find pleasure in whatever he does. He eventually becomes a thief and dons a new name, Devil."
+      }
+    ]
+  },
+  {
+    "channel": 201,
+    "name": "&Pictures",
+	"lan" : "hn",
+	"gen" : "movie",
+	"img" : "http://www.afaqs.com/all/news/images/news_story_grfx/2013/38322_1_home_big.jpg",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Krishh 3",
+		"img_ln": "https://m.media-amazon.com/images/M/MV5BMjI0MzU3MTM1Ml5BMl5BanBnXkFtZTgwOTk2MjQ0MDE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Hritik roshan","priyanka chopra","Robotic","superhero"],
+        "genres": [
+          "Science fiction",
+          "Action"
+        ],
+        "description": "A superhero sci-fi movie, sequel to Krrish. The story follows the life of Rohit Mehra, a scientist, and Krishna Mehra, his superhero son, who have to face an elaborate conspiracy orchestrated by the evil genius Kaal and his female henchman Kaya. In the process, Krishna's pregnant wife Priya is kidnapped by Kaal and the form-changing Kaya takes her place at the Mehra home and eventually falls in love with Krishna."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "phir hera pheri",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Still-phir-hera-phir.jpg/220px-Still-phir-hera-phir.jpg",
+        "language": "hn",
+        "tags":["akshay kumar","sunil shetty"],
+        "genres": [
+          "Comedy",
+          "family"
+        ],
+        "description": "Babu Rao, Raju and Shyam, are living happily after having risen from rags to riches. Still, money brings the joy of riches and with it the greed to make more money - and so, with a don as an unknowing investor, Raju initiates a new game."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "Holiday",
+		"img_ln": "http://bollyspice.com/wp-content/uploads/2014/05/14may_Holiday-poster03.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["akshay kumar"],
+        "genres": [
+          "Action",
+          "Army","Patriotic"
+        ],
+        "description": "A military officer uses his intellect and fighting skills to hunt and knock down a terrorist aiming to rip apart Mumbai via the sleeper cells under his command."
+      }
+    ]
+  },
+  {
+    "channel": 210,
+    "name": "Sony Max",
+	"lan" : "hn",
+	"gen" : "movie",
+	"img" : "https://vignette.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg/revision/latest?cb=20171109134225",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "krishh",
+		"img_ln": "http://c.asstatic.com/images/849734_634339456988903750-1.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Hritik roshan","priyanka chopra","Robotic","superhero"],
+        "genres": [
+          "Science fiction",
+          "Action"
+        ],
+        "description": "A superhero sci-fi mash-up, sequel to Koi... Mil Gaya starring Hrithik Roshan, Priyanka Chopra, Rekha and Naseeruddin Shah."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Garam Masala",
+		"img_ln": "https://images-na.ssl-images-amazon.com/images/I/61r582KNohL.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+        "tags":["Akshay kumar","john abrahm"],
+        "genres": [
+          "Comedy"
+        ],
         "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "Rab ne bana di jodi",
+        "releaseYear": 1991,
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Rab_Ne_Bana_Di_Jodi.jpg/220px-Rab_Ne_Bana_Di_Jodi.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+        "tags":["Anushka sharma","shahrukh khan"],
+        "genres": [
+          "family","entertainment","romantic","love story"
+        ],
+        "description": "A breathtaking, goose flesh igniting, awe inspiring love journey of an ordinary man Suri and his 'total opposite' love Taani."
+      }
+    ]
+  },
+  {
+    "channel": 215,
+    "name": "Star Gold",
+	"lan" : "hn",
+	"gen" : "movie",
+	"img" : "https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Hulchul",
+		"img_ln": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UxU0wLEZjX8vsOzFZdSNSa5nV5k4XqSUGtgsHRzimFhohhngQA",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Kareena Kapoor","paresh rawal","Robotic","superhero"],
+        "genres": [
+          "Comedy",
+          "family"
+        ],
+        "description": "A man and woman from feuding families each pretend to fall in love, as part of a revenge plot. Chaos ensues when their fake romance becomes a reality."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Pari",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Pari_-_Poster.jpg/220px-Pari_-_Poster.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+        "tags":["Anushka sharma"],
+        "genres": [
+          "horror"
+        ],
+        "description": "Pari is a supernatural horror film in which a man attempts to help a woman named Ruksana, an abuse victim, who he found chained up in a hut."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "Namastey London",
+        "releaseYear": 1991,
+		"img_ln":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Namasteylondonnnnnn.jpg/220px-Namasteylondonnnnnn.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+        "tags":["Katrina kaif","Akshay kumar"],
+        "genres": [
+          "romantic","family","entertainment","love story"
+        ],
+        "description": "A man takes his thoroughly-British daughter to his home country, India. There, he arranges her marriage to someone she considers a fool. The daughter attempts to outwit them, but the groom quietly and patiently hatches his own plan."
+      }
+    ]
+  },
+  {
+    "channel": 401,
+    "name": "Zee Studio",
+	"lan" : "en",
+	"gen" : "movie",
+	"img" : "https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Zee_Studio_2017.jpg/revision/latest?cb=20171105152419",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "The Avengers",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":[" Robert Downey Jr"],
+        "genres": [
+          "Science fiction",
+          "Action"
+        ],
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
       },
       {
         "start_time": "2018-06-16 12:15",
         "end_time": "2018-06-16 15:15",
         "title": "Terminator 2",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Terminator2poster.jpg/220px-Terminator2poster.jpg",
         "releaseYear": 1991,
         "releaseDate": "1991-07-01",
         "language": "en",
+		"tags":["Arnold Schwarzenegger"],
         "genres": [
-          "Comedy",
           "Action"
         ],
         "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
@@ -32,148 +250,823 @@
       {
         "start_time": "2018-06-16 15:15",
         "end_time": "2018-06-16 18:15",
-        "title": "Terminator 3",
+        "title": "The Kissing Booth",
+        "releaseYear": 1991,
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Kissing_Booth.png",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["Megan du Plessis"],
+        "genres": [
+          "Romantic","entertainment"
+        ],
+        "description": "A high school student is forced to confront her secret crush at a kissing booth."
+      }
+    ]
+  },
+  {
+    "channel": 409,
+    "name": "Sony PIX",
+	"lan" : "en",
+	"gen" : "movie",
+	"img" : "https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Logan",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",
         "releaseYear": 1991,
         "releaseDate": "1991-07-01",
         "language": "en",
+		"tags":["Hugh Jackman"],
         "genres": [
-          "Horror",
-          "Romantic"
+          "Action"
+        ],
+        "description": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "The Shape of Water",
+        "releaseYear": 1991,
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/3/37/The_Shape_of_Water_%28film%29.png",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":[" Sally Hawkins"],
+        "genres": [
+          "Romantic",
+          "Drama"
+        ],
+        "description": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": " The Man Who Wasn't There",
+        "releaseYear": 1991,
+		"img_ln": "https://m.media-amazon.com/images/M/MV5BYjEwMGZkYTgtMTA5Ny00OWFhLTgzMWItYjhhMWUxYTIxNDgwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY1200_CR86,0,630,1200_AL_.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["Billy Bob Thornton"],
+        "genres": [
+          "Crime",
+          "thriller"
         ],
         "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
       }
     ]
   },
   {
-    "channel": 2,
-    "name": "Star Gold",
+    "channel": 413,
+    "name": "HBO",
+	"lan" : "en",
+	"gen" : "movie",
+	"img" : "https://s3.amazonaws.com/freebiesupply/thumbs/2x/hbo-logo.png",
     "shows": [
       {
         "start_time": "2018-06-16 10:15",
         "end_time": "2018-06-16 12:15",
-        "title": "Dhoom 1",
+        "title": "Captain America: Civil War",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
         "releaseYear": 1991,
         "releaseDate": "1991-07-01",
-        "language": "hi",
-        "genres": [
-          "Horror",
-          "Animated"
-        ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
-      },
-      {
-        "start_time": "2018-06-16 12:15",
-        "end_time": "2018-06-16 15:15",
-        "title": "Dhoom 2",
-        "releaseYear": 1991,
-        "releaseDate": "1991-07-01",
-        "language": "hi",
+        "language": "en",
+		"tags":[" Robert Downey Jr","Chris Evans"],
         "genres": [
           "Science fiction",
-          "Comedy"
-        ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
-      },
-      {
-        "start_time": "2018-06-16 15:15",
-        "end_time": "2018-06-16 18:15",
-        "title": "Dhoom 3",
-        "releaseYear": 1991,
-        "releaseDate": "1991-07-01",
-        "language": "hi",
-        "genres": [
-          "Adventure",
           "Action"
         ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
-      }
-    ]
-  },
-  {
-    "channel": 3,
-    "name": "NDTV",
-    "shows": [
-      {
-        "start_time": "2018-06-16 10:15",
-        "end_time": "2018-06-16 12:15",
-        "title": "NDTV 1",
-        "releaseYear": 1991,
-        "releaseDate": "1991-07-01",
-        "language": "ne",
-        "genres": [
-          "Horror",
-          "Animated"
-        ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+        "description": "Political involvement in the Avengers' activities causes a rift between Captain America and Iron Man."
       },
       {
         "start_time": "2018-06-16 12:15",
         "end_time": "2018-06-16 15:15",
-        "title": "NDTV 2",
-        "releaseYear": 1991,
-        "releaseDate": "1991-07-01",
-        "language": "ne",
-        "genres": [
-          "Science fiction",
-          "Comedy"
-        ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
-      },
-      {
-        "start_time": "2018-06-16 15:15",
-        "end_time": "2018-06-16 18:15",
-        "title": "NDTV 3",
-        "releaseYear": 1991,
-        "releaseDate": "1991-07-01",
-        "language": "ne",
-        "genres": [
-          "Adventure",
-          "Action"
-        ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
-      }
-    ]
-  },
-  {
-    "channel": 4,
-    "name": "Music",
-    "shows": [
-      {
-        "start_time": "2018-06-16 10:15",
-        "end_time": "2018-06-16 12:15",
-        "title": "VH 1",
-        "releaseYear": 1991,
-        "releaseDate": "1991-07-01",
-        "language": "hi",
-        "genres": [
-          "Music"
-        ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
-      },
-      {
-        "start_time": "2018-06-16 12:15",
-        "end_time": "2018-06-16 15:15",
-        "title": "VH 2",
+        "title": " Call Me by Your Name ",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/c/c9/CallMeByYourName2017.png",
         "releaseYear": 1991,
         "releaseDate": "1991-07-01",
         "language": "en",
+		"tags":["Armie Hammer"],
         "genres": [
-          "Music"
+          "Romantic",
+          "Drama"
         ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+        "description": "In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant."
       },
       {
         "start_time": "2018-06-16 15:15",
         "end_time": "2018-06-16 18:15",
-        "title": "VH 3",
+        "title": "The Conjuring 2",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Conjuring_2.jpg/220px-Conjuring_2.jpg",
         "releaseYear": 1991,
         "releaseDate": "1991-07-01",
-        "language": "hi",
+        "language": "en",
+		"tags":["Vera Farmiga"],
         "genres": [
-          "Music"
+          "Horror"
         ],
-        "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot."
+        "description": "Ed and Lorraine Warren travel to North London to help a single mother raising 4 children alone in a house plagued by a supernatural spirit."
+      }
+    ]
+  },
+  {
+    "channel": 419,
+    "name": "Star Movies",
+	"lan" : "en",
+	"gen" : "movie",
+	"img" : "http://diylogodesigns.com/blog/wp-content/uploads/2016/01/star-movies-tv-channel-logo-design-free.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Deadpool",
+		"img_ln": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":[" Ryan Reynolds"],
+        "genres": [
+          "Science fiction",
+          "Action"
+        ],
+        "description": "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge."
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Zodiac",
+        "releaseYear": 1991,
+		"img_ln": "https://resizing.flixster.com/g0OcYtk72orsiru2mc_UtmuJxG4=/206x305/v1.bTsxMTIxNTU5NjtqOzE3ODE0OzEyMDA7MTUzNjsyMDQ4",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["Jake Gyllenhaal"," Robert Downey Jr"],
+        "genres": [
+          "crime",
+          "thriller"
+        ],
+        "description": "In the late 1960s/early 1970s, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree."
+      },
+      {
+        "start_time": "2018-06-16 15:15",
+        "end_time": "2018-06-16 18:15",
+        "title": "IT",
+		"img_ln": "https://i.ytimg.com/vi/-QQNOqxDLVg/movieposter.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["Bill Skarsgård"],
+        "genres": [
+          "Horror"
+        ],
+        "description": "In the summer of 1989, a group of bullied kids band together to destroy a shapeshifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town."
+      }
+    ]
+  },
+  {
+    "channel": 555,
+    "name": "Zee News",
+	"lan" : "hn",
+	"gen" : "news",
+	"img" : "https://pbs.twimg.com/profile_images/919586326067912704/_4LsQA6a.jpg",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Top 10 news",
+		"img_ln": "https://pbs.twimg.com/profile_images/919586326067912704/_4LsQA6a.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Regional","international"],
+        "genres": [
+          "Regional","international"
+        ],
+        "description": "Superfast coverage of news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "national reporter",
+        "releaseYear": 1991,
+		"img_ln": "https://pbs.twimg.com/profile_images/919586326067912704/_4LsQA6a.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Regional","national"],
+        "genres": [
+          "Regional","national"
+        ],
+        "description": "Superfast coverage of news"
+      }
+    ]
+  },
+  {
+    "channel": 558,
+    "name": "Aaj Tak",
+	"lan" : "hn",
+	"gen" : "news",
+	"img" : "https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "News report",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["national"],
+        "genres": [
+          "national"
+        ],
+        "description": "Superfast coverage of news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Khabar din bhar",
+        "releaseYear": 1991,
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Regional","national"],
+        "genres": [
+          "Regional","national"
+        ],
+        "description": "Superfast coverage of news"
+      }
+    ]
+  },
+  {
+    "channel": 562,
+    "name": "NDTV India",
+	"lan" : "hn",
+	"gen" : "news",
+	"img" : "https://i.ndtvimg.com/i/2015-08/india640_640x480_71439832943.jpg",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Prime time",
+		"img_ln": "https://i.ndtvimg.com/i/2015-08/india640_640x480_71439832943.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["national","international"],
+        "genres": [
+          "national","international"
+        ],
+        "description": "Superfast coverage of news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Hum log",
+        "releaseYear": 1991,
+		"img_ln": "https://i.ndtvimg.com/i/2015-08/india640_640x480_71439832943.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Regional"],
+        "genres": [
+          "Regional"
+        ],
+        "description": "Superfast coverage of news"
+      }
+    ]
+  },
+  {
+    "channel": 603,
+    "name": "NDTV 24 7",
+	"lan" : "en",
+	"gen" : "news",
+	"img" : "http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/smartcrop_800x800/public/images/tv-images/2014/05/08/ndtv.jpg?itok=t5jmKm_t",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Prime time",
+		"img_ln": "http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/smartcrop_800x800/public/images/tv-images/2014/05/08/ndtv.jpg?itok=t5jmKm_t",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["national","international"],
+        "genres": [
+          "national","international"
+        ],
+        "description": "Superfast coverage of news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "national report",
+        "releaseYear": 1991,
+		"img_ln": "http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/smartcrop_800x800/public/images/tv-images/2014/05/08/ndtv.jpg?itok=t5jmKm_t",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["national"],
+        "genres": [
+          "national"
+        ],
+        "description": "Superfast coverage of news"
+      }
+    ]
+  },
+  {
+    "channel": 606,
+    "name": "times Now",
+	"lan" : "en",
+	"gen" : "news",
+	"img" : "https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "international report",
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["international"],
+        "genres": [
+          "international"
+        ],
+        "description": "Superfast coverage of news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "prime time",
+        "releaseYear": 1991,
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["national"],
+        "genres": [
+          "national"
+        ],
+        "description": "Superfast coverage of news"
+      }
+    ]
+  },
+  {
+    "channel": 597,
+    "name": "ET Now",
+	"lan" : "en",
+	"gen" : "bnews",
+	"img" : "http://www.livenewson.com/wp-content/uploads/2014/11/ET-Now.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "stock market",
+		"img_ln": "http://www.livenewson.com/wp-content/uploads/2014/11/ET-Now.png",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["stocks"],
+        "genres": [
+          "stocks"
+        ],
+        "description": "Superfast coverage of business news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "finance report",
+        "releaseYear": 1991,
+		"img_ln": "http://www.livenewson.com/wp-content/uploads/2014/11/ET-Now.png",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["finance"],
+        "genres": [
+          "finance"
+        ],
+        "description": "Superfast coverage of business news"
+      }
+    ]
+  },
+  {
+    "channel": 590,
+    "name": "Zee business",
+	"lan" : "hn",
+	"gen" : "news",
+	"img" : "https://yt3.ggpht.com/a-/ACSszfFUK_eCB1PtbahKjdTBTf8CkRInO2Qn1bdBFg=s900-mo-c-c0xffffffff-rj-k-no",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "subhash chandra show",
+		"img_ln": "https://yt3.ggpht.com/a-/ACSszfFUK_eCB1PtbahKjdTBTf8CkRInO2Qn1bdBFg=s900-mo-c-c0xffffffff-rj-k-no",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["finance","shubhash chandra"],
+        "genres": [
+          "finance"
+        ],
+        "description": "Superfast coverage of business news"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "dalal street",
+        "releaseYear": 1991,
+		"img_ln": "https://yt3.ggpht.com/a-/ACSszfFUK_eCB1PtbahKjdTBTf8CkRInO2Qn1bdBFg=s900-mo-c-c0xffffffff-rj-k-no",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["stocks","shares"],
+        "genres": [
+          "finance","stocks"
+        ],
+        "description": "Superfast coverage of business news"
+      }
+    ]
+  },
+  {
+    "channel": 129,
+    "name": "Channel v",
+	"lan" : "hn",
+	"gen" : "music",
+	"img" : "https://yt3.ggpht.com/a-/ACSszfEjhONqVfNukP3K7xBXeeiTGjow-KWqAt8UuA=s900-mo-c-c0xffffffff-rj-k-no",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "music",
+		"img_ln": "https://yt3.ggpht.com/a-/ACSszfEjhONqVfNukP3K7xBXeeiTGjow-KWqAt8UuA=s900-mo-c-c0xffffffff-rj-k-no",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["music","songs"],
+        "genres": [
+          "music","songs"
+        ],
+        "description": "Music All time"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Song masti",
+        "releaseYear": 1991,
+		"img_ln": "https://yt3.ggpht.com/a-/ACSszfEjhONqVfNukP3K7xBXeeiTGjow-KWqAt8UuA=s900-mo-c-c0xffffffff-rj-k-no",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["music","songs"],
+        "genres": [
+          "music","songs"
+        ],
+        "description": "music all time"
+      }
+    ]
+  },
+  {
+    "channel": 662,
+    "name": "Star sports 1",
+	"lan" : "en",
+	"gen" : "sports",
+	"img" : "https://i0.wp.com/www.fullstoppunctuation.net/wp-content/uploads/2017/10/star-sports-live.jpg?resize=563%2C304",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "India vs Afganistan",
+		"img_ln": "https://yt3.ggpht.com/a-/ACSszfEjhONqVfNukP3K7xBXeeiTGjow-KWqAt8UuA=s900-mo-c-c0xffffffff-rj-k-no",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["cricket","india"],
+        "genres": [
+          "cricket","india"
+        ],
+        "description": "Inida vs Afganistan test series"
+      }
+    ]
+  },
+  {
+    "channel": 664,
+    "name": "Sony liv",
+	"lan" : "en",
+	"gen" : "sports",
+	"img" : "https://yt3.ggpht.com/a-/ACSszfFZ5Rp3f511qM0epkTIihBUqJsBRHgTQ8-8ww=s900-mo-c-c0xffffffff-rj-k-no",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "FIFA 2018",
+		"img_ln": "https://yt3.ggpht.com/a-/ACSszfFZ5Rp3f511qM0epkTIihBUqJsBRHgTQ8-8ww=s900-mo-c-c0xffffffff-rj-k-no",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["football","FIFA"],
+        "genres": [
+          "football","FIFA"
+        ],
+        "description": "Fifa world cup 2018"
+      }
+    ]
+  },
+  {
+    "channel": 511,
+    "name": "Cartoon network",
+	"lan" : "hn",
+	"gen" : "kids",
+	"img" : "https://res.cloudinary.com/postedin/image/upload/d_carretes:no-image.jpg,w_340,c_thumb,f_auto,q_80/carretes/v-i-4061.jpg",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "powerpuff girls",
+		"img_ln": "https://metrouk2.files.wordpress.com/2017/05/snip20170626_182.png?w=748&h=411&crop=1",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["kids","cartoon","powerpuff girls"],
+        "genres": [
+          "kids","cartoon"
+        ],
+        "description": "Little girls with great superpowers"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Ben 10",
+        "releaseYear": 1991,
+		"img_ln": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltp7FWtZ1yj1OAfRWP5BiIqdmiB7GUrjjGaai6C5kmzHgJW0R",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["kids","cartoon","Ben 10"],
+        "genres": [
+          "kids","cartoon"
+        ],
+        "description": "Young guy with supercool watch"
+      }
+    ]
+  },
+  {
+    "channel": 512,
+    "name": "Pogo",
+	"lan" : "hn",
+	"gen" : "kids",
+	"img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1200px-POGO-logo.svg.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Pokemon",
+		"img_ln": "https://i.ytimg.com/vi/70ZyU62pAXk/maxresdefault.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["kids","cartoon","pokemon"],
+        "genres": [
+          "kids","cartoon"
+        ],
+        "description": "Ash and his pokemons to save the world"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Chota bheem",
+        "releaseYear": 1991,
+		"img_ln": "https://cfvod.kaltura.com/p/1836881/sp/183688100/thumbnail/entry_id/1_0mdxbszk/version/100000/width/555/height/430",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["kids","cartoon","chota bheem"],
+        "genres": [
+          "kids","cartoon"
+        ],
+        "description": "Tales of young bheem"
+      }
+    ]
+  },
+  {
+    "channel": 464,
+    "name": "Discovery Channel",
+	"lan" : "en",
+	"gen" : "infotainmnet",
+	"img" : "https://cordcutting.com/wp-content/uploads/2017/03/discovery-channel-logo.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Man vs Wild",
+		"img_ln": "https://www.hddocumentary.com/wp-content/uploads/2017/03/man-vs-wild.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["adventure","information","entertainment"],
+        "genres": [
+          "infotainmnet"
+        ],
+        "description": "bear grylls and his adventures"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Gold rush",
+        "releaseYear": 1991,
+		"img_ln": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Gold_Rush_Title.jpg/250px-Gold_Rush_Title.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["adventure","information","gold"],
+        "genres": [
+          "infotainmnet"
+        ],
+        "description": "Adventures at alaska for Mining gold"
+      }
+    ]
+  },
+  {
+    "channel": 466,
+    "name": "national geographic Channel",
+	"lan" : "en",
+	"gen" : "infotainmnet",
+	"img" : "https://pmcdeadline2.files.wordpress.com/2018/01/national-geographic-channel-logo-featured.jpg?w=446&h=299&crop=1",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Mars",
+		"img_ln": "https://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/11/14/Pictures/_d3fe8398-aa4c-11e6-b4b4-3ed39deda4e7.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["mars","space","redplanet"],
+        "genres": [
+          "infotainmnet"
+        ],
+        "description": "Hidden tales about the red planet"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Nat geo Wild",
+        "releaseYear": 1991,
+		"img_ln": "http://www.davidbawiec.com/wp-content/uploads/2013/05/202152856_640.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "en",
+		"tags":["adventure","wild"],
+        "genres": [
+          "infotainmnet"
+        ],
+        "description": "Secrets of the wildlife"
+      }
+    ]
+  },
+  {
+    "channel": 108,
+    "name": "Star plus",
+	"lan" : "hn",
+	"gen" : "entertainment",
+	"img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Star_Plus_Logo.jpg/220px-Star_Plus_Logo.jpg",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "yeh hai mohabbatein",
+		"img_ln": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/YHM_2_x_1-1024x512.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["drama","family"],
+        "genres": [
+          "entertainment","drama","daily soap"
+        ],
+        "description": "Family drama"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Is pyaar ko kya naam du",
+        "releaseYear": 1991,
+		"img_ln": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/IPKKND_2_x_1-1024x512.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["drama","family"],
+        "genres": [
+          "entertainment","drama","daily soap"
+        ],
+        "description": "Family drama"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Kulfi kumar bajewaala",
+        "releaseYear": 1991,
+		"img_ln": "https://images.adgully.com/img/800/201803/star-plus.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["drama","family"],
+        "genres": [
+          "entertainment","drama","daily soap"
+        ],
+        "description": "Family drama"
+      }
+    ]
+  },
+  {
+    "channel": 108,
+    "name": "Zee TV",
+	"lan" : "hn",
+	"gen" : "entertainment",
+	"img" : "http://akamai.vidz.zeecdn.com/ozee/asset/logos/zeetv_new.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "Dance India Dance",
+		"img_ln": "http://akamai.vidz.zeecdn.com/ozee/slideshows/feature-image-180.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["dance","reality"],
+        "genres": [
+          "dance","reality","entertainmnet"
+        ],
+        "description": "dance reality show"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "kalere",
+        "releaseYear": 1991,
+		"img_ln": "http://akamai.vidz.zeecdn.com/ozee/slideshows/feature-image-111.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["drama","family","wedding"],
+        "genres": [
+          "entertainment","drama","daily soap"
+        ],
+        "description": "Wedding journey of a new world girl"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "sabse smart kaun",
+        "releaseYear": 1991,
+		"img_ln": "https://images.adgully.com/img/800/201803/star-plus.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["game","family"],
+        "genres": [
+          "entertainment","game","reality"
+        ],
+        "description": "Game show with ravi dubey"
+      }
+    ]
+  },
+  {
+    "channel": 108,
+    "name": "Sony",
+	"lan" : "hn",
+	"gen" : "entertainment",
+	"img" : "http://tv.releasemyad.com/images/logo/20151222112837sony_tv_logo_copy.png",
+    "shows": [
+      {
+        "start_time": "2018-06-16 10:15",
+        "end_time": "2018-06-16 12:15",
+        "title": "The Kapil Sharma show",
+		"img_ln": "https://images.desimartini.com/media/uploads/2015-5/the-kapil-sharma-show-star-cast-poster-mt-wiki.jpg",
+        "releaseYear": 1991,
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["Comedy","family","celebrity"],
+        "genres": [
+          "Comedy","entertainmnet"
+        ],
+        "description": "Laugh with the comedy king of india"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "Dus ka dum",
+        "releaseYear": 1991,
+		"img_ln": "https://i0.wp.com/10kadumsony.in/wp-content/uploads/2017/11/dus-ka-Dum-with-Salman-Khan.jpg?fit=700%2C585&ssl=1",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["game","family","salman khan"],
+        "genres": [
+          "entertainment","game"
+        ],
+        "description": "play and win big with one and only salman khan"
+      },
+      {
+        "start_time": "2018-06-16 12:15",
+        "end_time": "2018-06-16 15:15",
+        "title": "CID",
+        "releaseYear": 1991,
+		"img_ln": "https://media.indiatimes.in/media/content/2016/May/cid1_1464173302_725x725.jpg",
+        "releaseDate": "1991-07-01",
+        "language": "hn",
+		"tags":["crime","mystery"],
+        "genres": [
+          "entertainment"
+        ],
+        "description": "Solve thecriminal cases with the team of CID"
       }
     ]
   }
 ]
+	
+
+
+  

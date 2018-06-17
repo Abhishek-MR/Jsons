@@ -1,6 +1,6 @@
 [
   {
-    "channel": 200,
+    "channel": "200",
     "name": "Zee Cinema",
 	"lan" : "hn",
 	"gen" : "movie",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "channel": 201,
+    "channel": "201",
     "name": "&Pictures",
 	"lan" : "hn",
 	"gen" : "movie",
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "channel": 210,
+    "channel": "210",
     "name": "Sony Max",
 	"lan" : "hn",
 	"gen" : "movie",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "channel": 215,
+    "channel": "215",
     "name": "Star Gold",
 	"lan" : "hn",
 	"gen" : "movie",
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "channel": 401,
+    "channel": "401",
     "name": "Zee Studio",
 	"lan" : "en",
 	"gen" : "movie",
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "channel": 409,
+    "channel": "409",
     "name": "Sony PIX",
 	"lan" : "en",
 	"gen" : "movie",
@@ -317,7 +317,7 @@
     ]
   },
   {
-    "channel": 413,
+    "channel": "413",
     "name": "HBO",
 	"lan" : "en",
 	"gen" : "movie",
@@ -370,7 +370,7 @@
     ]
   },
   {
-    "channel": 419,
+    "channel": "419",
     "name": "Star Movies",
 	"lan" : "en",
 	"gen" : "movie",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "channel": 555,
+    "channel": "555",
     "name": "Zee News",
 	"lan" : "hn",
 	"gen" : "news",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "channel": 558,
+    "channel": "558",
     "name": "Aaj Tak",
 	"lan" : "hn",
 	"gen" : "news",
@@ -497,7 +497,7 @@
     ]
   },
   {
-    "channel": 562,
+    "channel": "562",
     "name": "NDTV India",
 	"lan" : "hn",
 	"gen" : "news",
@@ -534,7 +534,7 @@
     ]
   },
   {
-    "channel": 603,
+    "channel": "603",
     "name": "NDTV 24 7",
 	"lan" : "en",
 	"gen" : "news",
@@ -571,7 +571,7 @@
     ]
   },
   {
-    "channel": 606,
+    "channel": "606",
     "name": "times Now",
 	"lan" : "en",
 	"gen" : "news",
@@ -608,7 +608,7 @@
     ]
   },
   {
-    "channel": 597,
+    "channel": "597",
     "name": "ET Now",
 	"lan" : "en",
 	"gen" : "bnews",
@@ -645,7 +645,7 @@
     ]
   },
   {
-    "channel": 590,
+    "channel": "590",
     "name": "Zee business",
 	"lan" : "hn",
 	"gen" : "news",
@@ -682,7 +682,7 @@
     ]
   },
   {
-    "channel": 129,
+    "channel": "129",
     "name": "Channel v",
 	"lan" : "hn",
 	"gen" : "music",
@@ -719,7 +719,7 @@
     ]
   },
   {
-    "channel": 662,
+    "channel": "662",
     "name": "Star sports 1",
 	"lan" : "en",
 	"gen" : "sports",
@@ -742,7 +742,7 @@
     ]
   },
   {
-    "channel": 664,
+    "channel": "664",
     "name": "Sony liv",
 	"lan" : "en",
 	"gen" : "sports",
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "channel": 511,
+    "channel": "511",
     "name": "Cartoon network",
 	"lan" : "hn",
 	"gen" : "kids",
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "channel": 512,
+    "channel": "512",
     "name": "Pogo",
 	"lan" : "hn",
 	"gen" : "kids",
@@ -839,7 +839,7 @@
     ]
   },
   {
-    "channel": 464,
+    "channel": "464",
     "name": "Discovery Channel",
 	"lan" : "en",
 	"gen" : "infotainmnet",
@@ -876,7 +876,7 @@
     ]
   },
   {
-    "channel": 466,
+    "channel": "466",
     "name": "national geographic Channel",
 	"lan" : "en",
 	"gen" : "infotainmnet",
@@ -913,7 +913,7 @@
     ]
   },
   {
-    "channel": 108,
+    "channel": "108",
     "name": "Star plus",
 	"lan" : "hn",
 	"gen" : "entertainment",
@@ -964,7 +964,7 @@
     ]
   },
   {
-    "channel": 108,
+    "channel": "110",
     "name": "Zee TV",
 	"lan" : "hn",
 	"gen" : "entertainment",
@@ -1015,7 +1015,7 @@
     ]
   },
   {
-    "channel": 108,
+    "channel": "112",
     "name": "Sony",
 	"lan" : "hn",
 	"gen" : "entertainment",
@@ -1066,7 +1066,3 @@
     ]
   }
 ]
-	
-
-
-  
